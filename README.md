@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samuditha Dilanjan Wijayasundara</h1>
-<h3 align="center">Undergraduate at SLITT and University of Peradeniya</h3>
+<h3 align="center">Undergraduate at SLIIT and University of Peradeniya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samudithad97&label=Profile%20views&color=0e75b6&style=flat" alt="samudithad97" /> </p>
 
