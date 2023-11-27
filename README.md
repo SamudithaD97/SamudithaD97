@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samudithad97&label=Profile%20views&color=0e75b6&style=flat" alt="samudithad97" /> </p>
 
-- 🌱 I’m currently learning **Java,C++,C, MySQL, Android Studio**
+- 🌱 I’m currently working with **Java Springboot,C++,C, MySQL,React,Android Studio**
 
 - 👨‍💻 My LinkedIn [https://www.linkedin.com/in/samuditha-dilanjan-wijayasundara-255781ba](https://www.linkedin.com/in/samuditha-dilanjan-wijayasundara-255781ba)
 
